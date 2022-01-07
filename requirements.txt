@@ -1,0 +1,7 @@
+kfp-pipeline-spec==0.1.13
+kfp-server-api==1.7.1
+pyarrow
+cachetools
+pylivy
+livy
+scikit-learn
