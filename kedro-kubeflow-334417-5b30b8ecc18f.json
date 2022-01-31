@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "kedro-kubeflow-334417",
+  "private_key_id": "5b30b8ecc18f87b83dfd28f0d690f42b0b89d3cb",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCrpl3CJ/8CZUxV\nr9kxF6QyGwxQGii+O8aH7tIgx3ycdBRjSrJkSzTr14bmQjJBJ4AAxLe3bSHyLJvv\n52zUs+qDS9gaspzJ75xUIhHB66Nn/INlK4GA4zlWPGMvskPbOVRJXqvAvcFZDV/D\npOcDyodYdPouEqH8XE3BXpNP0uJSPu5a+uv1VZvk5ato1Ou5MV30CE7WBOT+A/c+\nqQiLbymixicQKNwxO50XkQOzF4QsgDzyQ+O7v2uI127MNR5T4/BsrWwoECJIBo6s\nQYp9/Ncng2Em1Paq4eOAQGRLuWORMC0K1XVh+2EH0vWYYzaIL/L5CsDSVyp++Ani\nhNfrzgrrAgMBAAECggEAVTmjqMCKDYr1NUA74vOdi2FBok3yt81fG+P4gdz6YoYC\nD3CplUGAE68t5AqvAAmYNQl3PEQbzC3Y+OsbbpqsECeqs0rGrT7ijCVkUrfoKLvI\nE4Xf5XosYERYbPiiV2kmD83JEkhFBS2uRCoOp6O5wrJF+3U152J/GskV9Fa9F18m\nJxVTJdOCzA7TMOnSNn9g5v9gNHtT7GHejcM+mkFFPdkSI5C5Apn4UzYpdZ/xg/EY\nsxzkyIjfLnNCSzAncvfeDCxVoBpnyzXRMR2Mz/d+rg+x19YjFZIomcNZseHAu1M3\nQLHwptOnYyvnBJaDbVwNamFuqyli/rdRZbkBlyaweQKBgQDdkmcqWq/VKMemWvM9\nVMISjX3KGNhkxHh2ZqYX0fFR9+tTdB5MF+kHAGhj+acig9ipVB6hJm4InRQyMVcg\nwb4e+pN0dr0USe9HZHwUio+dwsWlm0WOQyaTscqx6oxHZ/0rPZQ8oyZ+ympa5PIr\nEYdhldoE6KUb05oVvczTqARuUwKBgQDGUi90FfaYw+qy8NHGv0ZGX9D1FABvwLg5\nzvAlcZrETw9VXmjRNObb7Xc4sO9lHg7v2V/OTeKOpCqLieHGDMoet/brh7zA4zcU\nPsz2fNnvKh5VLsPLFHcu18VqxuPKC3QCsAOjHS60J3zkikZ+eTkwAXudfTJCNy3q\nKNCFYffuCQKBgQCusVpDi4Kshl167KRwy53D8OinaZVbRYhQmbgEedNRNC3G+3tT\ntVpV2d10TYaX8Onm/1qy5dDFW8trk3lFa1uRozCVF3UWRQCyAijOLTz0PneEjXp2\nor0Mn5XXVrzJI9T4vbFdaajVOJRIG9BPYp+hsftV+XMMEHahA6c1jXgI3wKBgQCs\npc1z1M75jM0b/DPTPp7SEwXY5RHAN9jpUnKTVkPylBT4L5k2T0SOvzqj2rx9nd5J\nBUa3VexeWyJCmcU34dhvR52oy2ER1nwTntxV1Ljw0QzZAT4n4+ghmmvdmcmiEbhr\nwolYDcajxSCf4JSf865KUXAo2V3QcTMCf4eQJops6QKBgQDYT1HGq70uGY6Ac1Y7\nXXJkw05IfPz3yZXeH5hCVE4n0r7o2xxhdbTpu7uE4WcpIZr5rdWjAC5YijWt8L94\nV6V6OPxI/GfvLEpzHhfyvHaPEKgnlN5wgO1RQmgt0JjVL1flfJKO73hQKuaWQByR\nAzMzqDw8lB4gCJprDjaIp8jd8A==\n-----END PRIVATE KEY-----\n",
+  "client_email": "diab-kfp-sa@kedro-kubeflow-334417.iam.gserviceaccount.com",
+  "client_id": "107742338665853286288",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/diab-kfp-sa%40kedro-kubeflow-334417.iam.gserviceaccount.com"
+}
